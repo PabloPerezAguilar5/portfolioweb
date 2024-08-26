@@ -11484,6 +11484,15 @@ section.resume-section .resume-section-content {
   text-align: center;
 }
 
+.button {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: white;
+  text-decoration: none;
+  border-radius: 50px; /* Aumenta el valor para bordes más redondeados */
+  text-align: center;
+}
 
 /* From uiverse.io by @Voxybuns */
 button {
